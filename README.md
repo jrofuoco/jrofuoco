@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @jrofuoco
+- 👀 I’m interested in developing in Mobile Application, Software and Webiste
+- 🌱 I’m currently learning Laravel
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... Just on email me on joshuaorlina08@gmail.com
+- 😄 Pronouns: ... MALE
+- ⚡ Fun fact: ... Masipag pero Depende sa deadline
+
+<!---
+jrofuoco/jrofuoco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

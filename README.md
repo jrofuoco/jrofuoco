@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jrofuoco
-- 👀 I’m interested in developing in Mobile Application, Software and Webiste
+- 👀 I’m interested in developing a Mobile, Software and Webiste systems.
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Just email me on joshuaorlina08@gmail.com

@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Just email me on joshuaorlina08@gmail.com
 - 😄 Pronouns: ... He/him/his
-- ⚡ Fun fact: ... Masipag pero Depende sa deadline
+- ⚡ Fun fact: ... Masipag pero Depende sa deadline hahahah (Joke lang)
 
 <!---
 jrofuoco/jrofuoco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
